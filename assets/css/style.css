@@ -18,6 +18,10 @@ h3 {
 	margin: 0 25px;
 }
 
+img {
+	margin: 25px;
+}
+
 .button-container {
 	display: flex;
 	flex-direction: column;
