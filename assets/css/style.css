@@ -33,6 +33,14 @@ a:hover,a:focus {
     color: #2162A7;
 }
 
+.speclink a {
+	color: #FFFFFF;
+}
+
+.speclink a:hover,a:focus {
+	color: #0D1117;
+}
+
 .button-container {
 	display: flex;
 	flex-direction: column;
