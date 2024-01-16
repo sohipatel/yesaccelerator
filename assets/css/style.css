@@ -34,11 +34,13 @@ img {
 	margin: 0 auto;
 	position: absolute;
 	top: 50%;
-	left: 50%;
-	right: 50%;
+	left: 25%;
+	right: 25%;
 	-ms-transform: translateY(-50%);
 	transform: translateY(-50%);
 }
+
+
 
 a {
     text-decoration: none;
