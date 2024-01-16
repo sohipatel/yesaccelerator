@@ -22,6 +22,17 @@ img {
 	margin: 25px;
 }
 
+a {
+    text-decoration: none;
+    color: #3491F4;
+    text-shadow: none;    
+}
+
+a:hover,a:focus {
+    text-decoration: none;
+    color: #2162A7;
+}
+
 .button-container {
 	display: flex;
 	flex-direction: column;
