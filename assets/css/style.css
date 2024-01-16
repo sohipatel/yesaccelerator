@@ -82,6 +82,14 @@ a:hover,a:focus {
   margin-bottom: 20px;
 }
 
+.faq-item a {
+	color: #041B34;
+}
+
+.faq-item a:hover,a:focus {
+	color: #0D1117;
+}
+
 .question {
 	color: #FFFFFF;
 	font-weight: bold;
