@@ -86,7 +86,8 @@ a:hover,a:focus {
 
 .footer {
 	height: 2.5rem;    
-	padding-top: 20px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	left: 0;
 	bottom: 0;
 	position: fixed;
