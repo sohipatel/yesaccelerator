@@ -4,6 +4,7 @@ body {
 	padding: 0;
 	background-color: #041B34;
 	text-align: center;
+	min-height: 100vh;
 }
 
 html, body {
@@ -119,7 +120,6 @@ a:hover,a:focus {
 	padding-bottom: 15px;
 	left: 0;
 	bottom: 0;
-	position: fixed;
 	width: 100%;
 	margin: 0 auto;
 	background-color: #0D1117;
