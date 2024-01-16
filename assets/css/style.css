@@ -46,6 +46,28 @@ h3 {
 	}
 }
 
+.faq-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #041B34;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.faq-item {
+  margin-bottom: 20px;
+}
+
+.question {
+	color: #000000;
+	font-weight: bold;
+}
+
+.answer {
+  color: #000000;
+}
+
 
 .footer {
 	height: 2.5rem;    
