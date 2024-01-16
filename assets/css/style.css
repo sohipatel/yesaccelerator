@@ -40,7 +40,12 @@ img {
 	transform: translateY(-50%);
 }
 
-
+@media only screen and (max-width: 768px) {
+	#main_content.inner {
+		left: 0%;
+		right: 0%;
+	}
+}
 
 a {
     text-decoration: none;
