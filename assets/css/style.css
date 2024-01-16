@@ -33,11 +33,11 @@ a:hover,a:focus {
     color: #2162A7;
 }
 
-.speclink a {
+.button-container a {
 	color: #FFFFFF;
 }
 
-.speclink a:hover,a:focus {
+.button-container a:hover,a:focus {
 	color: #0D1117;
 }
 
