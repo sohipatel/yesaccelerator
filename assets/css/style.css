@@ -5,6 +5,8 @@ body {
 	background-color: #041B34;
 	text-align: center;
 	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
 }
 
 html, body {
@@ -25,6 +27,7 @@ img {
 
 #main_content_wrap.outer {
 	position: relative;
+	flex: 1;
 }
 
 #main_content.inner {
