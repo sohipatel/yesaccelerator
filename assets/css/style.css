@@ -33,11 +33,11 @@ img {
 #main_content.inner {
 	margin: 0 auto;
 	position: absolute;
-	top: 50%;
+	top: 45%;
 	left: 25%;
 	right: 25%;
-	-ms-transform: translateY(-50%);
-	transform: translateY(-50%);
+	-ms-transform: translateY(-45%);
+	transform: translateY(-45%);
 }
 
 @media only screen and (max-width: 768px) {
